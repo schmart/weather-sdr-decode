@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env pypy
 
 # Decoder for weather data of sensors from ELV received with RTL SDR
 # Typical usage:
